@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Az Ahoy!-ban mindent te állíthatsz össze speciális menünk segítségével.
+image: /img/ahoy_limonade_vodor_kavezo_budapest_csokizo.jpeg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Az Ahoy!-ban mindent te állíthatsz össze speciális menünk segítségével.
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
